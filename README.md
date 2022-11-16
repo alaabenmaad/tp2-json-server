@@ -9,6 +9,14 @@ Bootstrap v5
 Json Server 
 Axios
 
+# L'interface de l'application
+
+### Liste des etudients
+![tp vue1](https://user-images.githubusercontent.com/86615248/202171519-8216790f-756f-4b38-bcf3-875126f9b9ba.PNG)
+
+### L'ajout d'un etudiant
+![tp vue 2](https://user-images.githubusercontent.com/86615248/202171545-365e8c03-5ef4-4a44-a54b-86271dadf987.PNG)
+
 ## Project Setup
 
 ```sh
