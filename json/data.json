@@ -1,0 +1,36 @@
+{
+  "etudients": [
+    {
+      "id": 1,
+      "nom": "ben abdallah",
+      "prenom": "azdin",
+      "email": "azdin@yahoo.fr",
+      "classe": "DSI",
+      "moyenne": 15
+    },
+    {
+      "id": 2,
+      "nom": "ben mahmoud",
+      "prenom": "ahmed",
+      "email": "ahmed.bm@yahoo.fr",
+      "classe": "MDW",
+      "moyenne": 10.24
+    },
+    {
+      "id": 3,
+      "nom": "ben youssef",
+      "prenom": "bilel",
+      "email": "bilel@ben-youssef.fr",
+      "classe": "MDW",
+      "moyenne": 9.99
+    },
+    {
+      "id": 4,
+      "nom": "mestaoui",
+      "prenom": "wieme",
+      "email": "wieme@gmail.com",
+      "classe": "MDW",
+      "moyenne": 12
+    }
+  ]
+}
