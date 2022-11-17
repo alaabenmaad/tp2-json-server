@@ -1,36 +1,44 @@
 {
   "etudients": [
     {
-      "id": 1,
       "nom": "ben abdallah",
-      "prenom": "azdin",
+      "prenom": "azdinnn",
       "email": "azdin@yahoo.fr",
       "classe": "DSI",
-      "moyenne": 15
+      "moyenne": 15,
+      "id": 1
     },
     {
       "id": 2,
-      "nom": "ben mahmoud",
-      "prenom": "ahmed",
-      "email": "ahmed.bm@yahoo.fr",
-      "classe": "MDW",
-      "moyenne": 10.24
+      "nom": "ben maad",
+      "prenom": "ahmed ali",
+      "email": "benmaad-ahmed@yahoo.fr",
+      "classe": "DSI",
+      "moyenne": 14.25
     },
     {
-      "id": 3,
-      "nom": "ben youssef",
-      "prenom": "bilel",
-      "email": "bilel@ben-youssef.fr",
+      "nom": "mestaoui",
+      "prenom": "wieme",
+      "email": "wieme@google.com",
       "classe": "MDW",
-      "moyenne": 9.99
+      "moyenne": 14.15,
+      "id": 3
     },
     {
       "id": 4,
-      "nom": "mestaoui",
-      "prenom": "wieme",
-      "email": "wieme@gmail.com",
+      "nom": "Kmel",
+      "prenom": "wael",
+      "email": "wael@outlook.fr",
       "classe": "MDW",
-      "moyenne": 12
+      "moyenne": 15
+    },
+    {
+      "nom": "benyoussef",
+      "prenom": "bilel",
+      "email": "bilel@ben-youssef.fr",
+      "classe": "MDW",
+      "moyenne": 15,
+      "id": 5
     }
   ]
 }
