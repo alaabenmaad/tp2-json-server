@@ -12,10 +12,19 @@ Axios
 # L'interface de l'application
 
 ### Liste des etudients
-![tp vue1](https://user-images.githubusercontent.com/86615248/202171519-8216790f-756f-4b38-bcf3-875126f9b9ba.PNG)
+![tp vue 3](https://user-images.githubusercontent.com/86615248/202435087-938779b7-3c89-4f55-b57e-067a1fcf46ef.PNG)
+
 
 ### L'ajout d'un etudiant
 ![tp vue 2](https://user-images.githubusercontent.com/86615248/202171545-365e8c03-5ef4-4a44-a54b-86271dadf987.PNG)
+
+### La modification d'un etudiant
+![tp vue 4](https://user-images.githubusercontent.com/86615248/202435295-e7dd81d1-3a5c-40ab-a57e-2aa04483ec52.PNG)
+
+
+### La supprission d'un etudiant
+![tp vue 5](https://user-images.githubusercontent.com/86615248/202435314-78d8e099-772a-4546-80e4-614d173b8eec.PNG)
+
 
 ## Project Setup
 
